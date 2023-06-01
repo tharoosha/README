@@ -4,7 +4,8 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CSE student at University of Moratuwa.
+- 🔭 I’m currently a Data Science and Engineering student in Computer Science & Engineering department at University of Moratuwa.
+- 📌 As a passionate data science and engineering student, I'm specializing in machine learning, deep learning, and AI,
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](mailto:tharooshavihidun@gmail.com)
